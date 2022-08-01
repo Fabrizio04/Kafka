@@ -25,3 +25,7 @@ Here you can find 2 script for Linux and Windows to semplifie certificate genera
 ### Clients for Developers
 
 Here you can find Client exmples written with .NET and Python based on Confluent.Kafka
+
+### Video
+
+[![Install and Configure Apache Kafka (SSL, SASL_SSL, Kafdrop UI + Basic Auth) [Windows & Linux]](http://img.youtube.com/vi/aTBdGxQnOHI/0.jpg)](https://youtu.be/aTBdGxQnOHI " and Configure Apache Kafka (SSL, SASL_SSL, Kafdrop UI + Basic Auth) [Windows & Linux]")
