@@ -4,6 +4,7 @@ c = AdminClient({
     'bootstrap.servers': '192.168.1.61:9092',
 })
 
+# Read total Partitions number of a Topic
 info = c.list_topics("Fabrizio").topics
 
 print(f"{info['Fabrizio']}")
